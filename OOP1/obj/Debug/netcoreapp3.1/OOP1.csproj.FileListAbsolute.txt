@@ -1,0 +1,13 @@
+C:\Users\ufuk\source\repos\Kamp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.exe
+C:\Users\ufuk\source\repos\Kamp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.deps.json
+C:\Users\ufuk\source\repos\Kamp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.json
+C:\Users\ufuk\source\repos\Kamp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.dev.json
+C:\Users\ufuk\source\repos\Kamp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.dll
+C:\Users\ufuk\source\repos\Kamp1\OOP1\bin\Debug\netcoreapp3.1\OOP1.pdb
+C:\Users\ufuk\source\repos\Kamp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.csprojAssemblyReference.cache
+C:\Users\ufuk\source\repos\Kamp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfoInputs.cache
+C:\Users\ufuk\source\repos\Kamp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfo.cs
+C:\Users\ufuk\source\repos\Kamp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\ufuk\source\repos\Kamp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.dll
+C:\Users\ufuk\source\repos\Kamp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.pdb
+C:\Users\ufuk\source\repos\Kamp1\OOP1\obj\Debug\netcoreapp3.1\OOP1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\bin\Debug\netcoreapp3.1\KampHomework.exe
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\bin\Debug\netcoreapp3.1\KampHomework.deps.json
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\bin\Debug\netcoreapp3.1\KampHomework.runtimeconfig.json
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\bin\Debug\netcoreapp3.1\KampHomework.runtimeconfig.dev.json
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\bin\Debug\netcoreapp3.1\KampHomework.dll
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\bin\Debug\netcoreapp3.1\KampHomework.pdb
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\obj\Debug\netcoreapp3.1\KampHomework.csprojAssemblyReference.cache
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\obj\Debug\netcoreapp3.1\KampHomework.AssemblyInfoInputs.cache
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\obj\Debug\netcoreapp3.1\KampHomework.AssemblyInfo.cs
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\obj\Debug\netcoreapp3.1\KampHomework.csproj.CoreCompileInputs.cache
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\obj\Debug\netcoreapp3.1\KampHomework.dll
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\obj\Debug\netcoreapp3.1\KampHomework.pdb
+C:\Users\ufuk\source\repos\Kamp1\KampWorkbook\obj\Debug\netcoreapp3.1\KampHomework.genruntimeconfig.cache

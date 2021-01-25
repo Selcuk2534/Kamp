@@ -1,0 +1,13 @@
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\ufuk\source\repos\Kamp1\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache
